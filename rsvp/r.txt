@@ -1,0 +1,14 @@
+#RSVP APP
+- npm install -g create-react-app
+- create-react-app rsvp
+- cd rsvp
+- npm start
+- npm install --save react-bootstrap bootstrap
+- npm start
+- npm run build 
+- npm install --save prop-types
+- npm start
+
+#Folders
+- favicon - public
+- images - src
